@@ -19,7 +19,7 @@ public class Main {
         System.out.println();
 
 
-        System.out.println("The base of the triangle is =  "+t1.getBase() + "The height of the triangle is ="+t1.getHeight());
+        System.out.println("The base of the triangle is =  "+t1.getBase() + "\nThe height of the triangle is ="+t1.getHeight());
         System.out.println("The area of the triangle is = "+t1.calculateArea()+ "\nthe circumference of the triangle is = "+t1.calculateCircumference());
 
 
